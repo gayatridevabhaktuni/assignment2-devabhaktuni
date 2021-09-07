@@ -44,4 +44,22 @@ This table contains info of food items with price location and rating out of 5
 
 > In the end we all become stories *~ Margaret Atwood*
 
+---
+## Code Fencing
+> ### Algebra : 
+>Algebra is a branch of mathematics dealing with symbols and the rules for manipulating those symbols. In elementary algebra, those symbols (today written as Latin and Greek letters) represent quantities without fixed values, known as variables. Just as sentences describe relationships between specific words, in algebra, equations describe relationships between variables
+
+[Source to definition](https://www.livescience.com/50258-algebra.html)
+
+* Fundamentals
+    * [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+    ```
+    (X⋅Y)⋅Z=X⋅(Y⋅Z)
+    ```
+    
+
+
+
+
+
 
