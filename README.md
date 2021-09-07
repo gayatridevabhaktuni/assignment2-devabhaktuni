@@ -38,4 +38,10 @@ This table contains info of food items with price location and rating out of 5
 |3. | White chocolate Mocca | Starbucks | $ 6.4 | 4.5|
 |4. | Blueberry Pancakes | Kate's Kitchen | $ 4.55 | 4|
 
+----
+## Quotes
+> To live is the rarest thing in the world, Most people Exist *~Oscar Wilde*<br>
+
+> In the end we all become stories *~ Margaret Atwood*
+
 
