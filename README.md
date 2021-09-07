@@ -23,3 +23,5 @@ Venice is located in **Italy** , It is known as *city of waters* and also *float
     * Cool drinks
     * Chocolates
 * Clothes
+
+[About Me](https://github.com/gayatridevabhaktuni/assignment2-devabhaktuni/blob/main/AboutMe.md)
