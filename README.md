@@ -25,3 +25,17 @@ Venice is located in **Italy** , It is known as *city of waters* and also *float
 * Clothes
 
 [About Me](https://github.com/gayatridevabhaktuni/assignment2-devabhaktuni/blob/main/AboutMe.md)
+
+---
+## Food items Table
+
+This table contains info of food items with price location and rating out of 5
+
+| S.No| Item | Location | Price | Rating |
+|-----|------|----------|-------|--------|
+| 1.| Chicken Nuggets | Chick fill A | $ 4.65| 5|
+|2. | Oreo Mc Flurry | Mc Donalds | $ 3.56 | 5 |
+|3. | White chocolate Mocca | Starbucks | $ 6.4 | 4.5|
+|4. | Blueberry Pancakes | Kate's Kitchen | $ 4.55 | 4|
+
+
