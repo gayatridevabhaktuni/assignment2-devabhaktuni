@@ -13,3 +13,13 @@ Venice is located in **Italy** , It is known as *city of waters* and also *float
 3. By air way we can go through flight
 4. We need to go to Chicago international airport from Maryville
 5. From chicago to Italy we can go through international flights
+
+-----
+### Items that I take to my favourite place
+* Camera
+* Mobile
+* Food
+    * Chips
+    * Cool drinks
+    * Chocolates
+* Clothes
