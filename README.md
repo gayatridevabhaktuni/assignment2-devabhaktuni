@@ -52,12 +52,24 @@ This table contains info of food items with price location and rating out of 5
 [Source to definition](https://www.livescience.com/50258-algebra.html)
 
 * Fundamentals
-    * [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
+    * [Binary Exponentiation]
+
     ```
     (X⋅Y)⋅Z=X⋅(Y⋅Z)
-    ```
     
-
+    long long binpow(long long a, long long b) {
+    if (b == 0)
+        return 1;
+    long long res = binpow(a, b / 2);
+    if (b % 2)
+        return res * res * a;
+    else
+        return res * res;
+        }
+    ```
+    <https://cp-algorithms.com/algebra/binary-exp.html>
+    
+    
 
 
 
