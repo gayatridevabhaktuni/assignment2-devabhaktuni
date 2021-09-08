@@ -52,7 +52,7 @@ This table contains info of food items with price location and rating out of 5
 [Source to definition](https://www.livescience.com/50258-algebra.html)
 
 * Fundamentals
-    * [Binary Exponentiation]
+    * Binary Exponentiation
 
     ```
     (X⋅Y)⋅Z=X⋅(Y⋅Z)
